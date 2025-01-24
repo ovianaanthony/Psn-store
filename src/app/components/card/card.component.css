@@ -5,10 +5,15 @@
   margin-bottom: 15%;
   border-radius: 1.5%;
   position: relative;
+  transition: transform .9s;
 }
 
 .container > img{
   width: 100%;
   height: 100%;
   border-radius: 1.5%;
+}
+
+.container:hover{
+  transform: scale(1.1);
 }

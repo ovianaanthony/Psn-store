@@ -1,3 +1,9 @@
+# PS Store Simulation
+* Angular application that simulates a scope of playstation store.
+
+> [!NOTE]
+> Following the [PS Store Simulation](https://ovianaanthony.github.io/Psn-store/)
+
 # Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
