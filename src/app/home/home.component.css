@@ -1,0 +1,14 @@
+.home-container{
+  background: rgb(54,127,203);
+  background: radial-gradient(circle, rgba(54,127,203,1) 9%, rgba(9,31,189,1) 94%);
+}
+
+.menu-bar{
+  background-color: white;
+}
+
+.games{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2%;
+}

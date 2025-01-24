@@ -1,0 +1,33 @@
+.container{
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  height: 45px;
+  background-color: rgba(0, 0, 0, 0.79);
+}
+
+.titulo{
+  margin-top: 1%;
+  margin-left: 5%;
+  color: white;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.desc{
+  margin-left: 5%;
+  display: flex;
+}
+
+.nome{
+  margin-left: 2%;
+  margin-right: 62%;
+}
+
+.desc > p{
+  color: white;
+
+}
+
+.desc > span{
+  color: rgb(9, 202, 236);
+}
