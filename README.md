@@ -1,4 +1,5 @@
 # PS Store Simulation
+
 * Angular application that simulates a scope of playstation store.
 
 > [!NOTE]
